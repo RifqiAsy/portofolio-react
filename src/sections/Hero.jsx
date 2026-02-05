@@ -1,4 +1,4 @@
-import profile from "../assets/pp.jpg";
+import profile from "../assets/Foto(1).jpg";
 import { Link } from "react-router-dom";
 
 export default function Hero() {
